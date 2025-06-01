@@ -15,14 +15,14 @@ import TRANSLATION from "@/translations/translation";
 const ProjectsClient = () => {
 	const { language } = useTranslationStore();
 
-	document.title = "Projects | Joona Kettunen";
+	document.title = "Projects | Christian";
 
 	useEffect(() => {
 		const changeTitleToLangPreference = () => {
 			document.title =
 				language === "en"
-					? "Projects | Joona Kettunen"
-					: "Projektit | Joona Kettunen";
+					? "Projects | Christian"
+					: "Projektit | Christian";
 		};
 
 		changeTitleToLangPreference();
@@ -45,7 +45,7 @@ const ProjectsClient = () => {
 					<p className="text-foreground/75 font-light">
 						<em>{TRANSLATION[language].projects.footer.title}</em>
 					</p>
-					<Link href="https://github.com/joonarafael" target="_blank">
+					<Link href="https://github.com/Christian-Chrata" target="_blank">
 						<Button
 							variant="outline"
 							className="items-center gap-2 w-fit text-2xl p-6 font-bold"

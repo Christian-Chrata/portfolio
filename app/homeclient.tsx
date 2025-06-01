@@ -9,7 +9,7 @@ import Skills from "@/components/home/skills/skills";
 import Title from "@/components/home/title/title";
 
 const HomeClient = () => {
-	document.title = "Portfolio | Joona Kettunen";
+	document.title = "Portfolio | Christian";
 
 	return (
 		<Container>

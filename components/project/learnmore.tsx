@@ -47,7 +47,7 @@ const ProjectLearnMore = ({ project }: ProjectLearnMoreProps) => {
 					/>
 				) : (
 					<Link
-						href={`https://github.com/joonarafael/${project.id}`}
+						href={`https://github.com/Christian-Chrata/${project.id}`}
 						target="_blank"
 					>
 						<Button className="items-center gap-2 text-md w-full text-black bg-white hover:bg-white/80">

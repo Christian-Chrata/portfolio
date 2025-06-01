@@ -62,7 +62,7 @@ const EXPERIENCES: Experience[] = [
 			en: "Entrepreneur",
 			fi: "Yrittäjä",
 		},
-		company: "Tmi Joona Kettunen",
+		company: "Tmi Christian",
 		from: "07/2024",
 		href: "https://joonakettunen.dev",
 		to: "04/2025",

@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { FaTelegramPlane } from "react-icons/fa";
+import { FaWhatsapp } from "react-icons/fa";
 import { IoMail } from "react-icons/io5";
 
 import {
@@ -34,7 +34,7 @@ const Title = () => {
 						{TRANSLATION[language].index.title.header.hello}
 					</h2>
 					<h1 className="gradient-text w-fit text-transparent text-4xl sm:text-6xl font-extrabold animate-gradient">
-						Joona Kettunen,
+						Christian,
 					</h1>
 					<p className="text-xl">
 						{TRANSLATION[language].index.title.header.subtitle}
@@ -59,17 +59,17 @@ const Title = () => {
 						<div className="flex flex-col items-center gap-2 w-full">
 							<Link
 								className="w-full"
-								href="https://t.me/joonarafael"
+								href="https://wa.link/k8isy8"
 								target="_blank"
 							>
 								<Button className="w-full gap-2 items-center">
-									<FaTelegramPlane className="w-5 h-5" />
+									<FaWhatsapp className="w-5 h-5" />
 									<p>Telegram @joonarafael</p>
 								</Button>
 							</Link>
 							<Link
 								className="w-full"
-								href="mailto:joonarafael@gmail.com"
+								href="mailto:chrata.main@gmail.com"
 								target="_blank"
 							>
 								<Button
@@ -77,7 +77,7 @@ const Title = () => {
 									className="w-full items-center gap-2"
 								>
 									<IoMail className="w-5 h-5" />
-									<p>joonarafael@gmail.com</p>
+									<p>chrata.main@gmail.com</p>
 								</Button>
 							</Link>
 						</div>

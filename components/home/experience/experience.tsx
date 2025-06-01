@@ -39,7 +39,7 @@ const Experience = () => {
 				<p className="text-foreground/75 font-light">
 					<em>{TRANSLATION[language].index.experience.visitLinkedIn}</em>
 				</p>
-				<Link href="https://www.linkedin.com/in/joonakettunen/" target="_blank">
+				<Link href="https://www.linkedin.com/in/christian-christian-9666a6361/" target="_blank">
 					<Button
 						variant="outline"
 						className="items-center gap-2 w-fit text-xl p-6 font-bold"

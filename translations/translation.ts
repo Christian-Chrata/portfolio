@@ -86,7 +86,7 @@ const TRANSLATION = {
 				header: {
 					hello: "Hello, I'm",
 					subtitle:
-						"a computer science student and software developer with a passion for designing scalable systems and solving complex problems. I bring hands-on experience from both industry and entrepreneurial projects, demonstrating a knack for system integrations, product design, and full-stack development.",
+						"a data analyst pursuing a master’s in Informatics Engineering at BINUS and studying at Purwadhika. I turn complex data into actionable insights, combining tech skills and analytical thinking to drive real-world impact.",
 				},
 				messageBtn: {
 					btnTxt: "Send me a message",

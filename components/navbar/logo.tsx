@@ -21,7 +21,7 @@ const Logo = () => {
 		>
 			<div className="flex flex-row text-xl">
 				<pre>{`<`}</pre>
-				<pre className="text-purple-500">{`Joona`}</pre>
+				<pre className="text-purple-500">{`Chrata`}</pre>
 				<pre>{` />`}</pre>
 			</div>
 		</Button>

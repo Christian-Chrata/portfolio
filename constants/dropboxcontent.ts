@@ -2,7 +2,7 @@ const DROPBOX_CONTENT = {
 	titleVideo:
 		"https://dl.dropboxusercontent.com/scl/fi/kfvrri1r7qdr3vn2z61bk/titlevideo.mp4?rlkey=t3xscp7prok74snt51dyj5qr0&st",
 	profPic:
-		"https://dl.dropboxusercontent.com/scl/fi/bwipx7607ro1gb5akaarz/profpic.jpeg?rlkey=ec61wmz84rno3339ssxcngvky",
+		"https://uc170c53e4616d3731d3f6ec1090.previews.dropboxusercontent.com/p/thumb/ACrx8U7uOzB7B25emHp78bLCkP-tc3NZJp-GYfte7EWS9QiXCmB_SdxoiN56dM8eD0uKmAWx481C512DUFCteN7dArd1iT-CzRUtXRa-PSHiTDt0VfSIyWliou2Uvd2dkyqDoYJigMbRvIkquWTFxBVNYWB2Ca6qdrolwsihFcRXTALc2Ha8b74-j4kyOFFsm4IinpBKdYAtEBJVbnxavoJxbRkbEpMXGCJlMAAQG1tGk5bQV5mBmARnRHNiDHMlaHuv8RXmV_WYm87cyUGbeLsp0z9Az8XpcK-L5MszEzK7hTrDOAOLzT6Lg8kTrfSEVm3L8ch-ZzOkUvyldCx8QxOvgmMl0qavS6FH0zppWHnBY88dFdMtvSAMw_V-wQRriWfBRXYQ3wLPzPuaYjn7y6Uj/p.jpeg?is_prewarmed=true",
 	thumbnail_explotrack:
 		"https://dl.dropboxusercontent.com/scl/fi/yqczf9gm8jrxe220l5320/thumbnail_explotrack.png?rlkey=01jm9qwk60k7zixchsqttxex1",
 	thumbnail_jobba:

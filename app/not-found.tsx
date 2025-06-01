@@ -13,7 +13,7 @@ const NotFound = () => {
 	const { language } = useTranslationStore();
 
 	if (typeof window !== "undefined") {
-		document.title = "404 | Joona Kettunen";
+		document.title = "404 | Christian";
 	}
 
 	return (

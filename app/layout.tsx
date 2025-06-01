@@ -15,8 +15,8 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
 	metadataBase: new URL("https://joonakettuen.netlify.app"),
-	title: "Portfolio | Joona Kettunen",
-	description: "Portfolio of Joona Kettunen",
+	title: "Portfolio | Christian",
+	description: "Portfolio of Christian",
 	twitter: {
 		card: "summary_large_image",
 	},
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
 					.href,
 				width: 1400,
 				height: 425,
-				alt: "Portfolio | Joona Kettunen",
+				alt: "Portfolio | Christian",
 			},
 		],
 	},

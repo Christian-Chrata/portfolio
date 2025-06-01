@@ -4,34 +4,31 @@ export const AboutMeBodyEn = () => {
 	return (
 		<>
 			<p>
-				I'm a passionate and self-driven software developer with a strong
-				foundation in computer science and hands-on experience in both corporate
-				and entrepreneurial environments. Currently completing my BSc in
-				Computer Science at the University of Helsinki, I've worked on a variety
-				of impactful projects ranging from defense systems integrations to
-				consumer-facing platforms.
+				I'm a passionate and self-driven data analyst with a background in
+				software development and a strong foundation in computer science.
+				Currently pursuing my master’s degree in Informatics Engineering
+				at BINUS University and expanding my practical skills through Purwadhika’s
+				data program, I thrive at the intersection of technical rigor and impactful
+				storytelling through data.
 			</p>
 			<p>
-				My interests lie in full-stack development, with a particular enthusiasm
-				for frontend work using modern frameworks like React and Next.js. I
-				thrive in collaborative settings, bring strong problem-solving skills to
-				every challenge, and have a continuous drive to learn, create, and
-				refine digital experiences. When I'm not coding, you'll find me at the
-				gym, reading, or playing piano.
+				Previously, I worked as an iOS developer at PT Danakini, where I sharpened
+				my understanding of building user oriented solutions. Now, my focus has
+				shifted toward extracting value from data whether through SQL queries,
+				Python analytics, or building insightful dashboards in Tableau. I enjoy
+				diving deep into datasets, uncovering patterns, and transforming business
+				questions into data-driven answers.
 			</p>
 			<p>
-				I am dedicated to continuous learning and growth, leveraging my free
-				time to explore emerging technologies and apply them in practical
-				contexts. This includes, for example, collaborating on innovative
-				startup projects, experimenting with self-hosted DevOps solutions on my
-				home server, and staying at the forefront of industry advancements and
-				AI.
+				Outside of my professional and academic commitments, I’m continually
+				learning exploring areas like machine learning, data engineering, and
+				analytics workflows. I also enjoy slow travel, journaling offline, and
+				taking breaks from screens with quiet, mindful hobbies.
 			</p>
 			<p>
-				My long-term goal is to become a bridge between technical and
-				non-technical teams, leveraging my programming expertise and strong
-				communication skills to drive collaborative success and deliver
-				impactful solutions.
+				In the long run, I aim to bridge the gap between raw data and strategic
+				decision-making using clear communication, analytical thinking, and
+				collaborative spirit to drive real impact in any organization I join.
 			</p>
 		</>
 	);

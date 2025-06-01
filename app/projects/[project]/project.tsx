@@ -21,7 +21,7 @@ const ProjectClient = ({ id }: ProjectProps) => {
 
 	const project = PROJECTS.filter((project) => project.id === id)[0];
 
-	document.title = `${project.title} | Joona Kettunen`;
+	document.title = `${project.title} | Christian`;
 
 	const sortedSkills = project.skills;
 

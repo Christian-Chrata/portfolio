@@ -60,7 +60,7 @@ const ProjectHeader = ({ project, sortedSkills }: ProjectHeaderProps) => {
 					<div className="flex flex-col w-full items-center lg:items-end gap-4">
 						<Link
 							className="w-full"
-							href={`https://github.com/joonarafael/${project.id}`}
+							href={`https://github.com/Christian-Chrata/${project.id}`}
 							target="_blank"
 						>
 							<Button className="items-center gap-2 text-md w-full">

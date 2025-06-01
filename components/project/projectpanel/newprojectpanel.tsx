@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { FaLinkedin, FaTelegramPlane } from "react-icons/fa";
+import { FaLinkedin, FaWhatsapp } from "react-icons/fa";
 import { HiPlusCircle } from "react-icons/hi";
 import { IoMail } from "react-icons/io5";
 import { RxGithubLogo } from "react-icons/rx";
@@ -47,7 +47,7 @@ const NewProjectPanel = () => {
 					<div className="flex flex-row gap-2 w-full">
 						<Link
 							className="w-full"
-							href="https://github.com/joonarafael"
+							href="https://github.com/Christian-Chrata"
 							target="_blank"
 						>
 							<Button className="px-3 py-0 w-full">
@@ -56,7 +56,7 @@ const NewProjectPanel = () => {
 						</Link>
 						<Link
 							className="w-full"
-							href="https://www.linkedin.com/in/joonakettunen/"
+							href="https://www.linkedin.com/in/christian-christian-9666a6361/"
 							target="_blank"
 						>
 							<Button className="px-3 py-0 w-full">
@@ -65,17 +65,17 @@ const NewProjectPanel = () => {
 						</Link>
 						<Link
 							className="w-full"
-							href="https://t.me/joonarafael"
+							href="https://wa.link/k8isy8"
 							target="_blank"
 						>
 							<Button className="px-3 py-0 w-full">
-								<FaTelegramPlane className="w-5 h-5" />
+								<FaWhatsapp className="w-5 h-5" />
 							</Button>
 						</Link>
 					</div>
 					<Link
 						className="w-full"
-						href="mailto:joonarafael@gmail.com"
+						href="mailto:chrata.main@gmail.com"
 						target="_blank"
 					>
 						<Button
@@ -83,7 +83,7 @@ const NewProjectPanel = () => {
 							className="px-3 py-0 w-full items-center gap-2"
 						>
 							<IoMail className="w-5 h-5" />
-							<p>joonarafael@gmail.com</p>
+							<p>chrata.main@gmail.com</p>
 						</Button>
 					</Link>
 				</div>

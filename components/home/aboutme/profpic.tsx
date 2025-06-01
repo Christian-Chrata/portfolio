@@ -3,7 +3,7 @@
 "use client";
 
 import Link from "next/link";
-import { FaLinkedin, FaTelegramPlane } from "react-icons/fa";
+import { FaLinkedin, FaWhatsapp } from "react-icons/fa";
 import { IoMail } from "react-icons/io5";
 import { RxGithubLogo } from "react-icons/rx";
 
@@ -23,7 +23,7 @@ const ProfPic = () => {
 			<div className="absolute rounded-xl p-2 left-0 right-0 -bottom-2 text-primary bg-foreground/50 dark:bg-background/75 backdrop-blur-lg font-bold text-lg shadow-lg border-t-2 border-x">
 				<div className="flex flex-row w-full item-center justify-center gap-1">
 					<Link
-						href="https://github.com/joonarafael"
+						href="https://github.com/Christian-Chrata"
 						target="blank"
 						className="hover:animate-pulse"
 					>
@@ -32,7 +32,7 @@ const ProfPic = () => {
 						</Button>
 					</Link>
 					<Link
-						href="https://www.linkedin.com/in/joonakettunen/"
+						href="https://www.linkedin.com/in/christian-christian-9666a6361/"
 						target="blank"
 						className="hover:animate-pulse"
 					>
@@ -41,16 +41,16 @@ const ProfPic = () => {
 						</Button>
 					</Link>
 					<Link
-						href="https://t.me/joonarafael"
+						href="https://wa.link/k8isy8"
 						target="blank"
 						className="hover:animate-pulse"
 					>
 						<Button size="sm" variant="ghost" className="px-3 py-0">
-							<FaTelegramPlane className="w-5 h-5" />
+							<FaWhatsapp className="w-5 h-5" />
 						</Button>
 					</Link>
 					<Link
-						href="mailto:joonarafael@gmail.com"
+						href="mailto:chrata.main@gmail.com"
 						target="blank"
 						className="hover:animate-pulse"
 					>
@@ -60,7 +60,7 @@ const ProfPic = () => {
 					</Link>
 				</div>
 				<div className="font-extrabold text-muted-foreground">
-					Joona Kettunen
+					Christian
 				</div>
 			</div>
 		</div>
