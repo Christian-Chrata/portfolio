@@ -2,7 +2,7 @@ const DROPBOX_CONTENT = {
 	titleVideo:
 		"https://dl.dropboxusercontent.com/scl/fi/kfvrri1r7qdr3vn2z61bk/titlevideo.mp4?rlkey=t3xscp7prok74snt51dyj5qr0&st",
 	profPic:
-		"https://uc170c53e4616d3731d3f6ec1090.previews.dropboxusercontent.com/p/thumb/ACrx8U7uOzB7B25emHp78bLCkP-tc3NZJp-GYfte7EWS9QiXCmB_SdxoiN56dM8eD0uKmAWx481C512DUFCteN7dArd1iT-CzRUtXRa-PSHiTDt0VfSIyWliou2Uvd2dkyqDoYJigMbRvIkquWTFxBVNYWB2Ca6qdrolwsihFcRXTALc2Ha8b74-j4kyOFFsm4IinpBKdYAtEBJVbnxavoJxbRkbEpMXGCJlMAAQG1tGk5bQV5mBmARnRHNiDHMlaHuv8RXmV_WYm87cyUGbeLsp0z9Az8XpcK-L5MszEzK7hTrDOAOLzT6Lg8kTrfSEVm3L8ch-ZzOkUvyldCx8QxOvgmMl0qavS6FH0zppWHnBY88dFdMtvSAMw_V-wQRriWfBRXYQ3wLPzPuaYjn7y6Uj/p.jpeg?is_prewarmed=true",
+		"https://previews.dropbox.com/p/thumb/ACpngSGZXXD_dqNntJ2HUuB4S9DAwwzl6oe40RUHVwY-PoYOpoJ7rYjwzF3givgzT_5NWiVfEehVjUpKMz5KwmM6lvkNiOYjC7Mls-2B7_L0l05PmP0wfYke95_kBKPPTyNhAy__tRxIH2IoBN-uKarZ-0LdbjccJvro1ciXk2oS9-gDu0NxraBOnMB9AqLbGhilMXoFMvfCLhEDdJKCIFwwDRcjZ30oMUacb1dYMO2Frl7OyzXBbqkjnStVlSXWyJE0YxYF4p5XBoSRRgXQyzpQSNTLI4JR2OieR4MAw1m_LbxtQmPwN1PJGn_6lWpMeawt8cpIfZ7Dl7hj9XDSrThX/p.jpeg?is_prewarmed=true",
 	thumbnail_explotrack:
 		"https://dl.dropboxusercontent.com/scl/fi/yqczf9gm8jrxe220l5320/thumbnail_explotrack.png?rlkey=01jm9qwk60k7zixchsqttxex1",
 	thumbnail_jobba:
@@ -20,7 +20,7 @@ const DROPBOX_CONTENT = {
 	media_visualpathfinder:
 		"https://dl.dropboxusercontent.com/scl/fi/pulcapqz0t3qjsrfk5bv4/media_visualpathfinder.mp4?rlkey=ezxeiyfbupvhq0f0t38dwm4je",
 	media_todo:
-		"https://dl.dropboxusercontent.com/scl/fi/wavvrf3qmyokdif42x0w9/todo.mp4?rlkey=q6q54fwnw773kbgkafso61k9t",
+		"https://github.com/Christian-Chrata/NYC-TLC/blob/main/images/dashboard.gif?raw=true",
 };
 
 export default DROPBOX_CONTENT;

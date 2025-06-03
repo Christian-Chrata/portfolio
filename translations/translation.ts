@@ -46,7 +46,7 @@ const TRANSLATION = {
 		index: {
 			aboutme: {
 				title: "ABOUT ME",
-				subtitle: "Enthusiastic problem-solver dedicated to web development",
+				subtitle: "Data Storyteller with a Developer’s Mindset",
 			},
 			experience: {
 				title: "EXPERIENCE",
