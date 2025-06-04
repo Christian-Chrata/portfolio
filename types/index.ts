@@ -6,7 +6,7 @@ export type Skill = {
 export type Experience = {
 	title: {
 		en: string;
-		fi: string;
+		id: string;
 	};
 	company: string;
 	location: string;
@@ -15,7 +15,7 @@ export type Experience = {
 	to?: string | null;
 	description: {
 		en: string;
-		fi: string;
+		id: string;
 	};
 	skills: string[];
 };
@@ -25,7 +25,7 @@ export type Project = {
 	media: string;
 	mediaDescription: {
 		en: string;
-		fi: string;
+		id: string;
 	};
 	href?: string | null;
 	deployedOn?: string | null;
@@ -33,11 +33,11 @@ export type Project = {
 	title: string;
 	about: {
 		en: string;
-		fi: string;
+		id: string;
 	};
 	description: {
 		en: React.ReactNode;
-		fi: React.ReactNode;
+		id: React.ReactNode;
 	};
 	skills: Skill[];
 	date: string;

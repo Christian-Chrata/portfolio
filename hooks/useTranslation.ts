@@ -1,19 +1,19 @@
 import { create } from "zustand";
 
 interface TranslationState {
-	language: "en" | "fi";
-	setLanguage: (language: "en" | "fi") => void;
+	language: "en" | "id";
+	setLanguage: (language: "en" | "id") => void;
 }
 
 export const useTranslationStore = create<TranslationState>((set) => ({
 	language: (() => {
 		if (typeof window !== "undefined") {
-			return localStorage.getItem("language") === "fi" ? "fi" : "en";
+			return localStorage.getItem("language") === "id" ? "id" : "en";
 		}
 
 		return "en";
 	})(),
-	setLanguage: (language: "en" | "fi") => {
+	setLanguage: (language: "en" | "id") => {
 		const consent = localStorage.getItem("cookies");
 
 		if (consent !== "accepted" && consent !== "necessary") {

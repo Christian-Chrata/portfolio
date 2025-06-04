@@ -14,13 +14,13 @@ import { useTranslationStore } from "@/hooks/useTranslation";
 const LanguageSwitch = () => {
 	const { language, setLanguage } = useTranslationStore();
 
-	const handleLanguageSwitch = (lang: "en" | "fi") => {
+	const handleLanguageSwitch = (lang: "en" | "id") => {
 		setLanguage(lang);
 	};
 
 	return (
 		<DropdownMenu>
-			<DropdownMenuTrigger asChild>
+			{/* <DropdownMenuTrigger asChild>
 				<Button
 					variant="ghost"
 					size="icon"
@@ -29,13 +29,13 @@ const LanguageSwitch = () => {
 					<p className="text-xs font-light">{language.toUpperCase()}</p>
 					<IoChevronDownOutline className="w-3 h-3" />
 				</Button>
-			</DropdownMenuTrigger>
+			</DropdownMenuTrigger> */}
 			<DropdownMenuContent align="end">
 				<DropdownMenuItem onClick={() => handleLanguageSwitch("en")}>
 					EN
 				</DropdownMenuItem>
-				<DropdownMenuItem onClick={() => handleLanguageSwitch("fi")}>
-					FI
+				<DropdownMenuItem onClick={() => handleLanguageSwitch("id")}>
+					ID
 				</DropdownMenuItem>
 			</DropdownMenuContent>
 		</DropdownMenu>

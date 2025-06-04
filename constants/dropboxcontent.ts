@@ -2,7 +2,7 @@ const DROPBOX_CONTENT = {
 	titleVideo:
 		"https://dl.dropboxusercontent.com/scl/fi/kfvrri1r7qdr3vn2z61bk/titlevideo.mp4?rlkey=t3xscp7prok74snt51dyj5qr0&st",
 	profPic:
-		"https://previews.dropbox.com/p/thumb/ACpngSGZXXD_dqNntJ2HUuB4S9DAwwzl6oe40RUHVwY-PoYOpoJ7rYjwzF3givgzT_5NWiVfEehVjUpKMz5KwmM6lvkNiOYjC7Mls-2B7_L0l05PmP0wfYke95_kBKPPTyNhAy__tRxIH2IoBN-uKarZ-0LdbjccJvro1ciXk2oS9-gDu0NxraBOnMB9AqLbGhilMXoFMvfCLhEDdJKCIFwwDRcjZ30oMUacb1dYMO2Frl7OyzXBbqkjnStVlSXWyJE0YxYF4p5XBoSRRgXQyzpQSNTLI4JR2OieR4MAw1m_LbxtQmPwN1PJGn_6lWpMeawt8cpIfZ7Dl7hj9XDSrThX/p.jpeg?is_prewarmed=true",
+		"https://www.dl.dropboxusercontent.com/scl/fi/86owo2so8hyqub1e6csy7/profil_picture.jpg?rlkey=8kalu5km1ua6gqel3ijfykris&st=nnf8nzh3&dl=0",
 	thumbnail_explotrack:
 		"https://dl.dropboxusercontent.com/scl/fi/yqczf9gm8jrxe220l5320/thumbnail_explotrack.png?rlkey=01jm9qwk60k7zixchsqttxex1",
 	thumbnail_jobba:
@@ -15,12 +15,10 @@ const DROPBOX_CONTENT = {
 		"https://dl.dropboxusercontent.com/scl/fi/zdq474pff1s8uzvbfnjtq/media_tiirascraper.mp4?rlkey=gbzd0v6eslfd45lslubm1eju9",
 	media_flaggame:
 		"https://dl.dropboxusercontent.com/scl/fi/0wmcgzs0ezn47ws5ull03/media_flaggame.mp4?rlkey=2l4v7h29qqefp9ooe21yaicja",
-	media_spotisaver:
-		"https://dl.dropboxusercontent.com/scl/fi/1hp254rj6np2gj264cnfw/media_spotisaver.mp4?rlkey=gx03j4jk46pt4g7gub2ccc48z",
-	media_visualpathfinder:
-		"https://dl.dropboxusercontent.com/scl/fi/pulcapqz0t3qjsrfk5bv4/media_visualpathfinder.mp4?rlkey=ezxeiyfbupvhq0f0t38dwm4je",
-	media_todo:
-		"https://github.com/Christian-Chrata/NYC-TLC/blob/main/images/dashboard.gif?raw=true",
+	media_nyc_tlc:
+		"https://www.dl.dropboxusercontent.com/scl/fi/uequ0qwi5iq0n7jp9zb70/media_nyc-tlc.mp4?rlkey=knzmxcu9dq6d9jreh97up8ljm&st=2fm5q4er&dl=0",
+	media_superstore:
+		"https://www.dl.dropboxusercontent.com/scl/fi/r0ak1ovrk7a8e4q50t21q/media_superstore.mp4?rlkey=nvldd7hdlzaixmd23li31qugj&st=eorui8fy&dl=0"
 };
 
 export default DROPBOX_CONTENT;

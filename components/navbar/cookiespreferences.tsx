@@ -24,7 +24,7 @@ const COOKIE_SELECTION_TITLES = {
 		necessary: "Necessary only",
 		declined: "All declined",
 	},
-	fi: {
+	id: {
 		accepted: "Kaikki hyväksytty",
 		necessary: "Vain välttämättömät",
 		declined: "Kaikki kielletty",

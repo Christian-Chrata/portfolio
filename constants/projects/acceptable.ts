@@ -1,10 +1,6 @@
 const ACCEPTABLE_PROJECT_IDS = [
-	"jobba",
-	"explotrack",
-	"spotisaver",
-	"tiirascraper",
-	"visualpathfinder",
-	"flaggame",
+	"NYC-TLC",
+	"visualpathfinder"
 ];
 
 export default ACCEPTABLE_PROJECT_IDS;

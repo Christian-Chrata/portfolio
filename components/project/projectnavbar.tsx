@@ -24,8 +24,8 @@ const PROJECTS = [
 		title: "Explotrack",
 	},
 	{
-		id: "spotisaver",
-		title: "Spotisaver",
+		id: "NYC-TLC",
+		title: "NYC-TLC",
 	},
 	{
 		id: "visualpathfinder",

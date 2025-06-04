@@ -178,7 +178,7 @@ const TRANSLATION = {
 			btnText: "Return home",
 		},
 	},
-	fi: {
+	id: {
 		global: {
 			cookies: {
 				title: "Evästeet",
@@ -228,133 +228,133 @@ const TRANSLATION = {
 				subtitle: "Motivoitunut web-kehitykseen erikoistunut moniosaaja",
 			},
 			experience: {
-				title: "TYÖKOKEMUS",
-				header: "Työkokemus",
-				present: "Nykyhetki",
+				title: "PENGALAMAN KERJA",
+				header: "PENGALAMAN KERJA",
+				present: "Saat ini",
 				visitLinkedIn:
-					"Koko yksityiskohtaisen ansioluetteloni löydät LinkedInistä!",
-				linkedInBtn: "Katso LinkedIn -profiilini",
+					"CV lengkap dan detail saya tersedia di LinkedIn.",
+				linkedInBtn: "Lihat profil LinkedIn saya",
 			},
 			newproject: {
-				title: "OTA YHTEYTTÄ",
+				title: "HUBUNGI SAYA",
 				hero: {
-					title: "Jutellaan!",
+					title: "Mari berbicara!",
 					subtitle:
-						"Projekti mielessä? Haluaisin mielelläni keskustella siitä.",
+						"Punya proyek dalam pikiran? Saya akan sangat senang membicarakannya bersama Anda.",
 				},
 			},
 			projects: {
-				title: "PROJEKTIT",
-				header: "Mitä olen tehnyt tähän mennessä",
+				title: "PROYEK-PROYEK",
+				header: "Proyek saya selama ini",
 				moreBtn: {
-					btnText: "ja enemmän...",
+					btnText: "dan lainnya...",
 				},
 			},
 			skills: {
-				title: "TAIDOT",
+				title: "Keahlian",
 				headers: {
-					skills: "Teknologiat ja työkalut jotka hallitsen",
-					learning: "Tällä hetkellä opettelen myös",
+					skills: "Teknologi dan alat yang saya kuasai",
+					learning: "Saat ini saya juga sedang belajar",
 				},
 				listBtn: {
-					showMore: "NÄYTÄ ENEMMÄN",
-					showLess: "NÄYTÄ VÄHEMMÄN",
+					showMore: "Lihat selengkapnya",
+					showLess: "Sembunyikan",
 				},
-				imgCredits: "Logot generoi shields.io",
+				imgCredits: "Logo dihasilkan oleh shields.io",
 			},
 			title: {
 				header: {
-					hello: "Hei, olen",
+					hello: "Hi, saya",
 					subtitle:
-						"omistautunut ohjelmistokehittäjä ja tietojenkäsittelytieteiden opiskelija, jonka kiinnostuksena on tehokkaiden ja skaalautuvien ohjelmistojen suunnittelu ja kehitys. Kokemukseni sekä työelämästä mutta myös omista yritteliäistä projekteista takaa minulle vahvan osaamisen järjestelmäintegraatioista, tuotekehityksestä ja full-stack kehityksestä.",
+						"seorang analis data yang saat ini sedang menempuh pendidikan magister Teknik Informatika di Universitas BINUS dan mengasah keterampilan praktis di Purwadhika. Saya mengkhususkan diri dalam mengubah data yang kompleks menjadi wawasan yang dapat ditindaklanjuti, dengan menggabungkan keahlian teknis dan pemikiran analitis untuk menciptakan dampak nyata melalui data.",
 				},
 				messageBtn: {
-					btnTxt: "Lähetä minulle viesti",
+					btnTxt: "Kirim saya pesan",
 					dialog: {
-						title: "Lähetä minulle viesti",
-						subtitle: "Parhaiten tavoitat Telegramin kautta.",
-						closeBtn: "Sulje",
+						title: "Kirimkan saya pesan",
+						subtitle: "Saya paling mudah dihubungi lewat Whatsapp.",
+						closeBtn: "Tutup",
 					},
 				},
 				video: {
 					overlays: {
-						responsive: "RESPONSIIVINEN",
-						modern: "MODERNI",
+						responsive: "RESPONSIF",
+						modern: "MODERN",
 					},
-					credits: "video Pixabaysta käyttäjältä u_vt453kmgmm",
+					credits: "video dari Pixabay oleh pengguna u_vt453kmgmm",
 				},
 			},
 		},
 		projects: {
 			header: {
-				title: "Projektit",
-				subtitle: "Valikoitu lista uusimpia töitäni.",
+				title: "Proyek",
+				subtitle: "Kumpulan hasil karya terbaru saya.",
 			},
 			footer: {
 				title:
-					"Löydät kaikki projektini ja lähdekoodin tälle portfolio-nettisivulle GitHubistani!",
-				btnText: "Avaa GitHub-profiilini",
+					"Kamu bisa menemukan semua proyek saya dan kode sumber untuk situs portfolio ini di GitHub saya!",
+				btnText: "Buka profil GitHub saya",
 			},
 			newProject: {
 				new: "UUSI",
 				dialog: {
-					title: "Projekti mielessä?",
-					subtitle: "Ota yhteyttä ja keskustellaan miten edettäisiin.",
-					closeBtn: "Sulje",
+					title: "Ada ide proyek yang ingin direalisasikan?",
+					subtitle: "Hubungi saya dan mari kita diskusikan langkah selanjutnya.",
+					closeBtn: "Tutup",
 				},
 			},
 		},
 		project: {
 			header: {
 				backToProjectsBtn: {
-					btnText: "Takaisin listaan",
+					btnText: "Kembali ke tampilan list",
 				},
 				sourceCodeBtn: {
-					btnText: "Näytä lähdekoodi GitHubissa",
-					private: "Lähdekoodi on yksityinen",
+					btnText: "Tampilkan kode sumber di GitHub",
+					private: "Kode ini bersifat privat.",
 				},
 			},
 			demoLink: {
-				btnText: "Tsekkaa live-projekti netissä",
-				explotrack: "Tsekkaa demo-projekti netissä",
-				deployedOn: "Projektin hostaa",
+				btnText: "Silakan lihat proyek yang sedang berjalan langsung di internet.",
+				explotrack: "Silakan lihat demo proyek ini di internet",
+				deployedOn: "Proyek ini diunggah melalui",
 			},
 			video: {
 				notWorking: {
-					title: "Eikö video toimi?",
-					btnText: "Avaa video Dropboxissa",
+					title: "Video tidak berfungsi?",
+					btnText: "Buka di dropbox",
 				},
 				smallScreen: {
-					title: "Katsot videota todella pieneltä näytöltä!",
+					title: "Kamu sedang menonton video dari layar yang sangat kecil!",
 					subtitle:
-						"Jos mahdollista, suosittelisin kääntämään laitteen vaaka-asentoon paremman katselukokemuksen saamiseksi.",
+						"Jika memungkinkan, saya sarankan memutar perangkat ke posisi horizontal untuk mendapatkan pengalaman menonton yang lebih baik.",
 				},
 			},
 			description: {
-				title: "Tarkempi kuvaus",
+				title: "Deskripsi",
 			},
 			learnMore: {
 				private: {
-					header: "Valitettavasti projektin lähdekoodi on yksityinen.",
+					header: "Projek ini bersifat privat.",
 					subtitle:
-						"Vastaan silti mielelläni kaikkiin kysymyksiin ja/tai kerron projektista lisää!",
-					btnText: "Ota yhteyttä ja kysy lisää",
+						"Saya tetap dengan senang hati akan menjawab semua pertanyaan dan/atau menjelaskan lebih lanjut tentang proyek ini!",
+					btnText: "Hubungi saya dan tanyakan lebih lanjut.",
 				},
 				public: {
-					header: "Haluaisitko tietää projektista vielä lisää?",
+					header: "Apakah kamu ingin tahu lebih banyak tentang proyek ini?",
 					subtitle:
-						"Tutustu lähdekoodiin ja lue koko dokuementaatio GitHubissa!",
-					btnText: "Avaa GitHub repo",
+						"Lihat kode sumber dan baca dokumentasi lengkapnya di GitHub!",
+					btnText: "Buka repositori di GitHub",
 				},
 			},
 			navbar: {
-				title: "Tutustu myös muihin projekteihin!",
+				title: "Silakan lihat juga proyek-proyek saya yang lain!",
 			},
 		},
 		notFound: {
 			title: "404",
-			subtitle: "Tällaista sivua ei ole olemassakaan! Varmista oikea osoite.",
-			btnText: "Takaisin etusivulle",
+			subtitle: "Halaman seperti ini tidak ada! Pastikan alamatnya benar.",
+			btnText: "Kembali ke beranda",
 		},
 	},
 };

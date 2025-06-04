@@ -24,7 +24,7 @@ const AboutMe = () => {
 					<h2 className="font-bold text-3xl">
 						{TRANSLATION[language].index.aboutme.subtitle}
 					</h2>
-					{language === "fi" ? <AboutMeBodyFi /> : <AboutMeBodyEn />}
+					{language === "id" ? <AboutMeBodyFi /> : <AboutMeBodyEn />}
 				</div>
 			</div>
 		</div>
