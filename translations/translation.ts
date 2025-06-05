@@ -98,8 +98,8 @@ const TRANSLATION = {
 				},
 				video: {
 					overlays: {
-						responsive: "RESPONSIVE",
-						modern: "MODERN",
+						responsive: "INSIGHTFUL",
+						modern: "IMPACTFUL",
 					},
 					credits: "video by u_vt453kmgmm from Pixabay",
 				},

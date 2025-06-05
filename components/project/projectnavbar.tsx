@@ -16,28 +16,12 @@ interface ProjectNavbarProps {
 
 const PROJECTS = [
 	{
-		id: "jobba",
-		title: "Jobba",
-	},
-	{
-		id: "explotrack",
-		title: "Explotrack",
-	},
-	{
 		id: "NYC-TLC",
 		title: "NYC-TLC",
 	},
 	{
-		id: "visualpathfinder",
-		title: "Visual Pathfinder",
-	},
-	{
-		id: "tiirascraper",
-		title: "Tiirascraper",
-	},
-	{
-		id: "flaggame",
-		title: "Flag Game",
+		id: "superstore",
+		title: "Superstore",
 	},
 ];
 

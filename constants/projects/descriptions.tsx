@@ -56,20 +56,15 @@ export const VISUALPATHFINDER_DESCRIPTION_EN = () => {
 	return (
 		<div>
 			<p>
-				Fun pathfinder application built as a university assignment. The
-				application is built with React and Next.js. Hosted on Vercel. The
-				application allows users see three different pathfinding algorithms,
-				Dijkstra&apos;s, A* and Jump Point Search, in action, as well as compare
-				their performance. Learning to implement a pathfinding algorithm (JPS)
-				from a research paper was a great learning experience.
-				<br />
-				<br />
-				Building the algorithms with TypeScript was maybe not the most optimal
-				choice (although you can always build anything with anything), but I
-				wanted to make a really great UI for the application, and involving
-				multiple languages would have made the project unnecessarily complex for
-				a university assignment. I learned a ton of the Jest library during the
-				development of this project.
+				Superstore is an interactive data visualization project that analyzes historical
+				sales data from a fictional retail company. Built using Tableau, the dashboard
+				provides a clear and intuitive view of top-performing product categories, customer
+				segments, and profit trends between 2014 and 2017. It answers key business questions
+				such as “What are we selling?” and “Which categories drive the most revenue?”, helping
+				users identify areas of growth and opportunity. The project emphasizes clean visual
+				storytelling and user interaction, integrated into a responsive web layout using Next.js
+				and Tailwind CSS. This case study highlights my ability to turn raw data into actionable
+				insights, combining technical proficiency with a strong sense of business context.
 			</p>
 		</div>
 	);

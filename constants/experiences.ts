@@ -3,76 +3,26 @@ import { Experience } from "@/types";
 const EXPERIENCES: Experience[] = [
 	{
 		title: {
-			en: "Project Lead",
-			id: "Projektivastaava",
-		},
-		company: "Junction",
-		from: "05/2025",
-		href: "https://www.hackjunction.com",
-		to: null,
-		location: "Helsinki, Finland",
-		description: {
-			en: "(Volunteer) Helping the CTO of Junction to manage the platform source code refactoring & overseeing the overhaul of the frontend styling. Guiding a team of volunteer developers executing these tasks and assisting them with various technical and non-technical questions.",
-			id: "(Vapaaehtoistyö) Avustan Junctionin CTOta hallitsemaan Junction-platformin lähdekoodin refaktorointityötä ja valvon tyylittelyn uudistusta. Luotsin vapaaehtoisten ohjelmoijien tiimiä, ohjaan heitä etenemään työssä ja autan kysymyksissä.",
-		},
-		skills: [],
-	},
-	{
-		title: {
-			en: "Frontend Developer Trainee",
+			en: "Mobile Application Developer",
 			id: "Frontend-kehittäjä Trainee",
 		},
-		company: "Alma Media",
-		from: "04/2025",
-		href: "https://www.almamedia.fi",
-		to: null,
-		location: "Helsinki, Finland",
+		company: "PT Danakini",
+		from: "02/2022",
+		href: "https://www.danakini.co.id/",
+		to: "02/2023",
+		location: "Gedung Kawan Lama Jl. Puri Kencana No.1 Meruya Kembangan Jakarta 11610 - Indonesia",
 		description: {
-			en: "Working on various distinct Alma Mobility Marketplace web applications, such as Rekkari.fi and Oma Ajo, with a focus on frontend development. Gaining hands-on experience in software development within a large Finnish digital service company. Learning to collaborate with different teams and professionals, while also developing an understanding of the needs and perspectives of various stakeholders involved in the product development process.",
-			id: "Työskentelen useiden eri Alma Liikkumisen Markkinapaikkojen verkkosovellusten parissa, kuten Rekkari.fi ja Oma Ajo, keskittyen erityisesti frontend-kehitykseen. Kerrytän käytännön kokemusta ohjelmistokehityksestä suuressa suomalaisessa digitaalisten palveluiden yrityksessä. Opin tekemään yhteistyötä eri tiimien ja ammattilaisten kanssa, samalla kun syvennän ymmärrystäni tuotekehitykseen osallistuvien sidosryhmien tarpeista ja näkökulmista.",
+			en: "I worked as a Mobile Developer at PT Danakini from February 2022 to February 2023, where I was responsible for developing and maintaining iOS applications, collaborating with cross-functional teams to deliver user-friendly fintech solutions.",
+			id: "Lorem Ipsum",
 		},
 		skills: [
-			"Docker",
-			"Jira",
+			"Swift",
+			"XCode",
+			"Firebase",
 			"Figma",
-			"Scrum",
-			"TypeScript",
-			"JavaScript",
-			"Confluence",
+			"Postman"
 		],
-	},
-	{
-		title: {
-			en: "Freelance Developer",
-			id: "Freelance-ohjelmistokehittäjä",
-		},
-		company: "Aufwin Defence Systems Oy",
-		from: "07/2024",
-		href: "https://aufwindefence.fi",
-		to: "04/2025",
-		location: "Helsinki, Finland",
-		description: {
-			en: "Participating in the development of various IoT system integrations and contributing to building large-scale software infrastructure. Responsibilities include interfacing with partner firms, consulting with clients, and participating in system design.",
-			id: "Erinäisten IoT-järjestelmäintegraatioiden toteutusta ja työtä monimutkaisten ohjelmistokokonaisuuksien kanssa. Työnkuvaan kuuluu myös yhteydenpito partnerifirmojen kanssa ja kosultointi asiakastapaamisten välityksellä. Olen myös osallistunut järjestelmäsuunnitteluun yleisesti.",
-		},
-		skills: ["AWS", "Python", "Docker"],
-	},
-	{
-		title: {
-			en: "Entrepreneur",
-			id: "Yrittäjä",
-		},
-		company: "Tmi Christian",
-		from: "07/2024",
-		href: "https://joonakettunen.dev",
-		to: "04/2025",
-		location: "Helsinki, Finland",
-		description: {
-			en: "Operating a registered business under my own trade name as a freelance developer. Responsible for managing all aspects of the business, including taxes, billing, and accounting, while delivering high-quality development services to clients.",
-			id: "Korkealaatuisten ohjelmistojen ja ohjelmointipalveluiden tarjontaa oman toiminimen kautta freelance-kehittäjänä. Vastuussa kaikista yrityksen osa-alueista, kuten verotuksesta, laskutuksesta ja kirjanpidosta.",
-		},
-		skills: [],
-	},
+	}
 ];
 
 export default EXPERIENCES;
