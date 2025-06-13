@@ -1,4 +1,6 @@
 const ACCEPTABLE_PROJECT_IDS = [
+	"Customer-Lifetime-Value",
+	"Forecasting-Sido",
 	"NYC-TLC",
 	"superstore"
 ];

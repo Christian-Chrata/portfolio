@@ -16,6 +16,14 @@ interface ProjectNavbarProps {
 
 const PROJECTS = [
 	{
+		id: "Customer-Lifetime-Value",
+		title: "Customer Lifetime Value Prediction",
+	},
+	{
+		id: "Forecasting-Sido",
+		title: "LSTM Forecasting for PT Sido Muncul Sales",
+	},
+	{
 		id: "NYC-TLC",
 		title: "NYC-TLC",
 	},
